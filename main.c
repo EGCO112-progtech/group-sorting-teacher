@@ -25,6 +25,7 @@ else  if(strcmp(argv[1],"insertion")==0)
 else {
     printf("Incorrect type\n");
 }
+   printf("\n");
    display(a,n);
     
  return 0;
